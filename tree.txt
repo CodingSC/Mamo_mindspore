@@ -1,0 +1,46 @@
+.
+├── configs.py
+├── data_raw
+│   ├── book_crossing
+│   │   └── Download the dataset into this folder.txt
+│   └── ml-1m
+│       ├── List_director.txt
+│       ├── List_genre.txt
+│       ├── movies.dat
+│       ├── movies_extrainfos.dat
+│       ├── ratings.dat
+│       ├── README
+│       └── users.dat
+├── LICENSE
+├── MAMO.pdf
+├── mamoRec.py
+├── models.py
+├── modules
+│   ├── info_embedding.py
+│   ├── input_loading.py
+│   ├── memories.py
+│   ├── __pycache__
+│   │   ├── info_embedding.cpython-37.pyc
+│   │   ├── input_loading.cpython-37.pyc
+│   │   ├── memories.cpython-37.pyc
+│   │   └── rec_model.cpython-37.pyc
+│   └── rec_model.py
+├── prepare_data
+│   ├── prepareList.py
+│   ├── prepareMovielens.py
+│   └── __pycache__
+│       ├── prepareList.cpython-37.pyc
+│       └── prepareMovielens.cpython-37.pyc
+├── prepareDataset.py
+├── __pycache__
+│   ├── configs.cpython-37.pyc
+│   ├── models.cpython-37.pyc
+│   └── utils.cpython-37.pyc
+├── README.md
+├── requirements.txt
+├── result.txt
+├── time.txt
+├── tree.txt
+└── utils.py
+
+8 directories, 35 files

@@ -1,0 +1,5 @@
+Epoch 1 cost 316.22s
+Epoch 2 cost 335.12s
+Epoch 3 cost 310.09s
+Epoch 4 cost 431.27s
+Epoch 5 cost 309.11s
